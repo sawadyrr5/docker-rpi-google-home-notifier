@@ -1,4 +1,5 @@
-FROM hypriot/rpi-node:latest
+#FROM hypriot/rpi-node:latest
+FROM arm32v7/node:latest
 
 MAINTAINER Shingo Hisakawa shingohisakawa@gmail.com
 
